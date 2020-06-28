@@ -10,6 +10,5 @@ I took the data from [Yahoo Finance](https://finance.yahoo.com/quote/BTC-USD/his
 
 Actually, this model can be improved but for now, they worked good identifying pricing trends:
 
-![Predictions]
-(https://github.com/gabrielmayers/bitcoin_forecasting-LSTM/blob/master/Predictions.png)
+![Predictions](https://github.com/gabrielmayers/bitcoin_forecasting-LSTM/blob/master/Predictions.png)
 
